@@ -9,7 +9,7 @@ app.all("*", (req, res) => {
   res.sendFile(path.resolve(__dirname, "build", "index.html"));
 });
 
-const port = (port = process.env.PORT || 8000);
+const port = process.env.PORT || 8000;
 
 app.listen(port, () => {
   console.log("Server listening on port 8000!");
