@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/kuul/static/css/main.8cd69b3c.chunk.css",
-    "main.js": "/kuul/static/js/main.506d9e05.chunk.js",
-    "main.js.map": "/kuul/static/js/main.506d9e05.chunk.js.map",
-    "runtime-main.js": "/kuul/static/js/runtime-main.159bd972.js",
-    "runtime-main.js.map": "/kuul/static/js/runtime-main.159bd972.js.map",
-    "static/css/2.4be38407.chunk.css": "/kuul/static/css/2.4be38407.chunk.css",
-    "static/js/2.01c10dfb.chunk.js": "/kuul/static/js/2.01c10dfb.chunk.js",
-    "static/js/2.01c10dfb.chunk.js.map": "/kuul/static/js/2.01c10dfb.chunk.js.map",
-    "index.html": "/kuul/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/kuul/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.8cd69b3c.chunk.css.map": "/kuul/static/css/main.8cd69b3c.chunk.css.map",
-    "static/js/2.01c10dfb.chunk.js.LICENSE.txt": "/kuul/static/js/2.01c10dfb.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.8ee913dc.css",
+    "main.js": "/static/js/main.ac80d6ca.js",
+    "static/media/img1.gif": "/static/media/img1.f9d22f81152c240de85a.gif",
+    "static/media/t3.png": "/static/media/t3.04a4a054105a28dc223d.png",
+    "static/media/t1.png": "/static/media/t1.b7aac0adfa4dfadc94a6.png",
+    "static/media/t2.png": "/static/media/t2.b8f6d296df2bb1e743c2.png",
+    "static/media/bg3.png": "/static/media/bg3.9d3f90cf3e1711c5946d.png",
+    "static/media/bg4.png": "/static/media/bg4.4bc8ea6b1bee140b80ea.png",
+    "static/media/bg1.png": "/static/media/bg1.12a3c4e74b2256c7fb59.png",
+    "static/media/img3.png": "/static/media/img3.39179c4c1a06557eb819.png",
+    "static/media/bg2.png": "/static/media/bg2.a44db6ca2966ff7fa5fe.png",
+    "static/media/jd_melted.ttf": "/static/media/jd_melted.f39026cd4a75d0515b63.ttf",
+    "static/media/t4.png": "/static/media/t4.83503f808214c4554a51.png",
+    "static/media/ShadowsIntoLight.ttf": "/static/media/ShadowsIntoLight.e45a119361cc7800f037.ttf",
+    "static/media/logo.gif": "/static/media/logo.34ff473f5b3439c3dd62.gif",
+    "static/media/Shaka Pow Upright.ttf": "/static/media/Shaka Pow Upright.002c64c3abcf34448403.ttf",
+    "index.html": "/index.html",
+    "main.8ee913dc.css.map": "/static/css/main.8ee913dc.css.map",
+    "main.ac80d6ca.js.map": "/static/js/main.ac80d6ca.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.159bd972.js",
-    "static/css/2.4be38407.chunk.css",
-    "static/js/2.01c10dfb.chunk.js",
-    "static/css/main.8cd69b3c.chunk.css",
-    "static/js/main.506d9e05.chunk.js"
+    "static/css/main.8ee913dc.css",
+    "static/js/main.ac80d6ca.js"
   ]
 }
